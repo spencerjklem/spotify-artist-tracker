@@ -11,6 +11,8 @@ Create a new empty playlist on your spotify, and get its playlist id. Copy the l
 
 Then, just add the artist names you want to artistnames.txt (one per line), and you will be good to go.
 
+use ```make help``` to learn how to build a command, otherwise you can use ```make run ARGS='<ENTER INPUT FILENAME> <ENTER OUTPUT FILENAME> <ENTER NUMBER OF DAYS SINCE RELEASE> VERBOSE'```
+
 
 ## Why Did I Make This?
 This was the final project submission for my Intro to Programming class. I also really enjoy music and having done some minor work with API requests on a previous project, I wanted to expand my knowledge.
